@@ -25,7 +25,7 @@ Conference
 </div>
  
 ## Description   
-AI Security Class for Samsung DS Security Experts Curriculum (Summer, 2022)
+AI Security Class for Samsung DS Security Experts Curriculum (Summer, 2023)
 
 ## Institution   
 **고려대학교 인공지능 연구실 (https://air.korea.ac.kr/)**  
